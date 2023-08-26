@@ -7,7 +7,7 @@ function Data() {
       placeholder="2022"
       searchable
       nothingFound="No options"
-      data={['2022', '2021', '2020', '2019']}
+      data={['2022', '2021', '2020', '2019','2018']}
     />
   );
 }
